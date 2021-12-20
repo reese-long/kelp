@@ -18,19 +18,19 @@
     },
     "close-non-focused-tabs": {
       "suggested_key": {
-        "default": "Alt+1",
+        "default": "Alt+1"
       },
       "description": "closes tabs other than focused tab"
     },
     "close-tabs-to-left-of-active-tab": {
       "suggested_key": {
-        "default": "Alt+2",
+        "default": "Alt+2"
       },
       "description": "closes tabs to the right of the focused tab"
     },
     "close-tabs-to-right-of-active-tab": {
       "suggested_key": {
-        "default": "Alt+3",
+        "default": "Alt+3"
       },
       "description": "closes tabs to the left of the focused tab"
     }
